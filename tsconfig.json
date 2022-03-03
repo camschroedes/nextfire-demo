@@ -23,7 +23,7 @@
     "next-env.d.ts",
     "**/*.ts",
     "**/*.tsx"
-, "pages/index.js", "pages/_app.js", "lib/firebase.js", "lib/hooks.js", "pages/api/hello.js"  ],
+, "pages/index.js", "pages/_app.js", "lib/firebase.js", "lib/hooks.js", "pages/api/[username].js"  ],
   "exclude": [
     "node_modules"
   ]
